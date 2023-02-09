@@ -1,5 +1,5 @@
 {
-  "name": "integration",
+  "name": "jamesw201",
   "version": "0.0.5",
   "description": "",
   "main": "index.js",
@@ -23,5 +23,5 @@
     "type": "git",
     "url": "git+https://github.com/jamesw201/lerna-practice-doctor.git"
   },
-  "gitHead": "c14ba5ff85bf94761c87a003d3fdec84d203a83c"
+  "gitHead": "a522ee292ff30af69494772aaeec73f1cfbd984c"
 }
