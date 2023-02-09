@@ -1,12 +1,20 @@
 {
-  "name": "root",
+  "name": "jamesw201",
   "version": "0.0.2",
   "private": false,
+  "author": "jamesw201 <james.wilson201@gmail.com>",
   "workspaces": [
     "packages/*"
   ],
   "scripts": {
     "publish": "lerna run tsc && lerna publish"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesw201/lerna-practice-doctor.git"
   },
   "devDependencies": {
     "lerna": "^6.4.1",
