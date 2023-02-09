@@ -1,5 +1,5 @@
 {
-  "name": "patient",
+  "name": "jamesw201",
   "version": "0.0.6",
   "description": "> TODO: description",
   "author": "jamesw201 <james.wilson201@gmail.com>",
@@ -28,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/jamesw201/lerna-practice-doctor/issues"
   },
-  "gitHead": "a522ee292ff30af69494772aaeec73f1cfbd984c"
+  "gitHead": "86079ada5143696db279cdfac9f18902383b7448"
 }
