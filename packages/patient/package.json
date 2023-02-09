@@ -1,12 +1,12 @@
 {
-  "name": "doctor",
+  "name": "patient",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "jamesw201 <james.wilson201@gmail.com>",
   "homepage": "https://github.com/jamesw201/lerna-practice-doctor#readme",
   "license": "ISC",
-  "main": "lib/doctor.js",
-  "typings": "lib/doctor.d.ts",
+  "main": "lib/patient.js",
+  "typings": "lib/patient.d.ts",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -17,13 +17,13 @@
   "publishConfig": {
     "access": "public"
   },
-  "scripts": {
-    "tsc": "tsc",
-    "test": "node ./__tests__/doctor.test.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jamesw201/lerna-practice-doctor.git"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "node ./__tests__/patient.test.js"
   },
   "bugs": {
     "url": "https://github.com/jamesw201/lerna-practice-doctor/issues"
