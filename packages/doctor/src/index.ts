@@ -1,0 +1,1 @@
+console.log('new console log in packages/doctor/src/index.ts');

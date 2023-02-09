@@ -1,19 +1,27 @@
 {
   "name": "integration",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [],
-  "author": "",
+  "author": "jamesw201 <james.wilson201@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@hospital-sdk/doctor": "^0.0.4",
     "@hospital-sdk/patient": "^0.0.4",
     "@hospital-sdk/scheduler": "^0.0.4",
     "ts-node": "^7.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesw201/lerna-practice-doctor.git"
+  },
+  "gitHead": "863eeef84a36b73d04f2d56ea308540f0e32d684"
 }
