@@ -7,7 +7,7 @@
     "packages/*"
   ],
   "scripts": {
-    "publish": "lerna run tsc && lerna publish --summary-file publish-summary.json",
+    "publish": "lerna run tsc && lerna publish --summary-file publish-summary.json"
   },
   "publishConfig": {
     "access": "public"
